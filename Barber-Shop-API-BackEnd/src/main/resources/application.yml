@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: barber-shop-api
+  datasource:
+    url: jdbc:mysql://localhost:3306/db_barber_shop
+    username: user_db_barber_shop
+    password: user_db_barber_shop
+    driver-class-name: com.mysql.cj.jdbc.Driver  # Adicione esta linha explicitamente
+  jpa:
+    hibernate:
+      ddl-auto: none
+  flyway:
+    enabled: true
+    url: jdbc:mysql://localhost:3306/db_barber_shop
+    user: user_db_barber_shop
+    password: user_db_barber_shop
+    locations: classpath:db/migration
+    validate-on-migrate: false
