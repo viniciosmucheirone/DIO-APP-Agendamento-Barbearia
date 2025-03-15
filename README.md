@@ -35,5 +35,5 @@ Foi criado durante o programa **DecolaTech** com foco em otimização da gestão
 O **Sistema de Agendamento para Barbearia** foi uma excelente oportunidade de aplicar conhecimentos adquiridos no programa **DecolaTech**. Utilizando tecnologias como **Spring Boot**, **Hibernate** e **MySQL**, desenvolvi uma solução prática e eficiente para a gestão de agendamentos. Esse projeto reforçou minhas habilidades em **backend**, **segurança** e **deploy**, além de proporcionar uma solução real para o mercado de barbearias.
 
 ### Links para o Frontend e Backend:
-- [Repositório Frontend](https://github.com/viniciosmucheirone/DIO-APP-Agendamento-Barbearia/Barber-Shop-UI-FrontEnd)
-- [Repositório Backend](https://github.com/viniciosmucheirone/DIO-APP-Agendamento-Barbearia/Barber-Shop-API-BackEnd)
+- [Repositório Frontend](https://github.com/viniciosmucheirone/DIO-APP-Agendamento-Barbearia/tree/main/Barber-Shop-UI-FrontEnd)
+- [Repositório Backend](https://github.com/viniciosmucheirone/DIO-APP-Agendamento-Barbearia/tree/main/Barber-Shop-API-BackEnd)
